@@ -1,0 +1,2 @@
+# PicMagic
+AI Image Generator
